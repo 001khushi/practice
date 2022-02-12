@@ -27,7 +27,7 @@ void reversearray(int arr[],int start, int end)
         end--;
     }
 }
-    void printarray(int arr[],int end)
+void printarray(int arr[],int end)
     {
         for(int i=0;i<end;i++)
         {

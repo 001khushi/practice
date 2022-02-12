@@ -49,7 +49,7 @@ int main()
     int n=4;
     int k=2;
     int arr[]={1,5,8,10};
-    int c=getMinDiff(arr,n,k);
+    int c=getMinDiff(arr,n,k); 
     cout<<c;
     return 0;
 }
